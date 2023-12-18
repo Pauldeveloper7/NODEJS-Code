@@ -1,0 +1,728 @@
+[{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8c9"
+  },
+  "name": "Caped crusader",
+  "description": [
+    "A caped crusader faces off against a psychopathic criminal mastermind known as The Joker."
+  ],
+  "duration": 152,
+  "ratings": 9,
+  "totalRating": 1845,
+  "releaseYear": 2008,
+  "releaseDate": {
+    "$date": "2008-07-18T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "coverImage": [
+    "dark_knight.jpg"
+  ],
+  "Actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "price": 14.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8ca"
+  },
+  "name": "Low IQ ",
+  "description": [
+    "A man with a low IQ accomplishes great things in his life and influences others along the way."
+  ],
+  "duration": 142,
+  "ratings": 8.8,
+  "totalRating": 1915,
+  "releaseYear": 1994,
+  "releaseDate": {
+    "$date": "1994-07-06T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Drama",
+    "Romance"
+  ],
+  "directors": [
+    "Robert Zemeckis"
+  ],
+  "coverImage": [
+    "forrest_gump.jpg"
+  ],
+  "Actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "price": 11.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8cb"
+  },
+  "name": "Hackerz",
+  "description": [
+    "A computer hacker learns about the true nature of his reality and his role in the war against its controllers."
+  ],
+  "duration": 136,
+  "ratings": 8.7,
+  "totalRating": 1789,
+  "releaseYear": 1999,
+  "releaseDate": {
+    "$date": "1999-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Lana Wachowski",
+    "Lilly Wachowski"
+  ],
+  "coverImage": [
+    "the_matrix.jpg"
+  ],
+  "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "price": 10.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8cc"
+  },
+  "name": "Pulp Fiction",
+  "description": [
+    "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  ],
+  "duration": 154,
+  "ratings": 8.9,
+  "totalRating": 1562,
+  "releaseYear": 1994,
+  "releaseDate": {
+    "$date": "1994-10-14T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Quentin Tarantino"
+  ],
+  "coverImage": [
+    "pulp_fiction.jpg"
+  ],
+  "Actors": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ],
+  "price": 13.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8cd"
+  },
+  "name": "Inglourious Basterds",
+  "description": [
+    "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans."
+  ],
+  "duration": 153,
+  "ratings": 8.3,
+  "totalRating": 1365,
+  "releaseYear": 2009,
+  "releaseDate": {
+    "$date": "2009-05-20T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Adventure",
+    "Drama",
+    "War"
+  ],
+  "directors": [
+    "Quentin Tarantino"
+  ],
+  "coverImage": [
+    "inglourious_basterds.jpg"
+  ],
+  "Actors": [
+    "Brad Pitt",
+    "Diane Kruger",
+    "Eli Roth"
+  ],
+  "price": 12.49,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8ce"
+  },
+  "name": "Godfather",
+  "description": [
+    "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+  ],
+  "duration": 175,
+  "ratings": 9.2,
+  "totalRating": 1738,
+  "releaseYear": 1972,
+  "releaseDate": {
+    "$date": "1972-03-24T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Francis Ford Coppola"
+  ],
+  "coverImage": [
+    "the_godfather.jpg"
+  ],
+  "Actors": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "price": 15.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8cf"
+  },
+  "name": "Sci-fi",
+  "description": [
+    "A mind-bending science fiction thriller directed by Christopher Nolan."
+  ],
+  "duration": 148,
+  "ratings": 8.8,
+  "totalRating": 2000,
+  "releaseYear": 2010,
+  "releaseDate": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "coverImage": [
+    "inception-poster.jpg"
+  ],
+  "Actors": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+  ],
+  "price": 15.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d0"
+  },
+  "name": " Shawshank ",
+  "description": [
+    "A powerful drama film directed by Frank Darabont."
+  ],
+  "duration": 142,
+  "ratings": 9.3,
+  "totalRating": 2500,
+  "releaseYear": 1994,
+  "releaseDate": {
+    "$date": "1994-09-10T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Drama"
+  ],
+  "directors": [
+    "Frank Darabont"
+  ],
+  "coverImage": [
+    "shawshank-redemption-poster.jpg"
+  ],
+  "Actors": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton"
+  ],
+  "price": 12.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d1"
+  },
+  "name": "Avatar",
+  "description": [
+    "An epic science fiction film directed by James Cameron."
+  ],
+  "duration": 162,
+  "ratings": 7.8,
+  "totalRating": 1800,
+  "releaseYear": 2009,
+  "releaseDate": {
+    "$date": "2009-12-18T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "directors": [
+    "James Cameron"
+  ],
+  "coverImage": [
+    "avatar-poster.jpg"
+  ],
+  "Actors": [
+    "Sam Worthington",
+    "Zoe Saldana",
+    "Sigourney Weaver"
+  ],
+  "price": 19.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d2"
+  },
+  "name": "Great Knight",
+  "description": [
+    "A superhero film directed by Christopher Nolan, featuring Batman and the Joker."
+  ],
+  "duration": 152,
+  "ratings": 9,
+  "totalRating": 2200,
+  "releaseYear": 2008,
+  "releaseDate": {
+    "$date": "2008-07-18T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "coverImage": [
+    "dark-knight-poster.jpg"
+  ],
+  "Actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ],
+  "price": 14.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d3"
+  },
+  "name": "Space",
+  "description": [
+    "A space exploration film directed by Christopher Nolan."
+  ],
+  "duration": 169,
+  "ratings": 8.6,
+  "totalRating": 1800,
+  "releaseYear": 2014,
+  "releaseDate": {
+    "$date": "2014-11-05T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "coverImage": [
+    "interstellar-poster.jpg"
+  ],
+  "Actors": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ],
+  "price": 16.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d4"
+  },
+  "name": "Crime ",
+  "description": [
+    "A classic crime film directed by Quentin Tarantino."
+  ],
+  "duration": 154,
+  "ratings": 8.9,
+  "totalRating": 2100,
+  "releaseYear": 1994,
+  "releaseDate": {
+    "$date": "1994-10-14T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Quentin Tarantino"
+  ],
+  "coverImage": [
+    "pulp-fiction-poster.jpg"
+  ],
+  "Actors": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson"
+  ],
+  "price": 13.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8c7"
+  },
+  "name": "Heist",
+  "description": [
+    "A mind-bending heist movie set within the architecture of the mind."
+  ],
+  "duration": 148,
+  "ratings": 8.8,
+  "totalRating": 1052,
+  "releaseYear": 2010,
+  "releaseDate": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "directors": [
+    "Christopher Nolan"
+  ],
+  "coverImage": [
+    "inception.jpg"
+  ],
+  "Actors": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Ellen Page"
+  ],
+  "price": 12.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8c8"
+  },
+  "name": "The decency",
+  "description": [
+    "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  ],
+  "duration": 142,
+  "ratings": 9.3,
+  "totalRating": 1457,
+  "releaseYear": 1994,
+  "releaseDate": {
+    "$date": "1994-09-23T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Drama"
+  ],
+  "directors": [
+    "Frank Darabont"
+  ],
+  "coverImage": [
+    "shawshank_redemption.jpg"
+  ],
+  "Actors": [
+    "Tim Robbins",
+    "Morgan Freeman",
+    "Bob Gunton"
+  ],
+  "price": 9.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d7"
+  },
+  "name": "The future",
+  "description": [
+    "A sci-fi action film exploring a dystopian future where reality is simulated by machines."
+  ],
+  "duration": 136,
+  "ratings": 8.7,
+  "totalRating": 1579,
+  "releaseYear": 1999,
+  "releaseDate": {
+    "$date": "1999-03-31T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "The Wachowskis"
+  ],
+  "coverImage": [
+    "matrix-poster.jpg"
+  ],
+  "Actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "price": 12.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d8"
+  },
+  "name": "Avengers",
+  "description": [
+    "A superhero film directed by Joss Whedon, featuring the Marvel Comics superhero team."
+  ],
+  "duration": 143,
+  "ratings": 8,
+  "totalRating": 1800,
+  "releaseYear": 2012,
+  "releaseDate": {
+    "$date": "2012-04-11T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "directors": [
+    "Joss Whedon"
+  ],
+  "coverImage": [
+    "avengers-poster.jpg"
+  ],
+  "Actors": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Scarlett Johansson"
+  ],
+  "price": 15.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d9"
+  },
+  "name": "Titanic",
+  "description": [
+    "A romantic drama film directed by James Cameron, set against the backdrop of the sinking of the Titanic."
+  ],
+  "duration": 195,
+  "ratings": 7.8,
+  "totalRating": 2000,
+  "releaseYear": 1997,
+  "releaseDate": {
+    "$date": "1997-11-01T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Drama",
+    "Romance"
+  ],
+  "directors": [
+    "James Cameron"
+  ],
+  "coverImage": [
+    "titanic-poster.jpg"
+  ],
+  "Actors": [
+    "Leonardo DiCaprio",
+    "Kate Winslet",
+    "Billy Zane"
+  ],
+  "price": 17.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8da"
+  },
+  "name": "Jurassic Park",
+  "description": [
+    "A science fiction adventure film directed by Steven Spielberg, featuring cloned dinosaurs."
+  ],
+  "duration": 127,
+  "ratings": 8.1,
+  "totalRating": 1900,
+  "releaseYear": 1993,
+  "releaseDate": {
+    "$date": "1993-06-11T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "directors": [
+    "Steven Spielberg"
+  ],
+  "coverImage": [
+    "jurassic-park-poster.jpg"
+  ],
+  "Actors": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum"
+  ],
+  "price": 16.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d5"
+  },
+  "name": " Godzilla",
+  "description": [
+    "A classic crime film directed by Francis Ford Coppola."
+  ],
+  "duration": 175,
+  "ratings": 9.2,
+  "totalRating": 2600,
+  "releaseYear": 1972,
+  "releaseDate": {
+    "$date": "1972-03-24T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Crime",
+    "Drama"
+  ],
+  "directors": [
+    "Francis Ford Coppola"
+  ],
+  "coverImage": [
+    "godfather-poster.jpg"
+  ],
+  "Actors": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "price": 11.99,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6579c3330ceebeec6d25b8d6"
+  },
+  "name": "Forrest fire",
+  "description": [
+    "A heartwarming drama film directed by Robert Zemeckis."
+  ],
+  "duration": 142,
+  "ratings": 8.8,
+  "totalRating": 2400,
+  "releaseYear": 1994,
+  "releaseDate": {
+    "$date": "1994-07-06T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2023-12-13T14:44:03.404Z"
+  },
+  "generes": [
+    "Drama",
+    "Romance"
+  ],
+  "directors": [
+    "Robert Zemeckis"
+  ],
+  "coverImage": [
+    "forrest-gump-poster.jpg"
+  ],
+  "Actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ],
+  "price": 14.99,
+  "__v": 0
+}]
